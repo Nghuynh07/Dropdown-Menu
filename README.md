@@ -1,6 +1,6 @@
 # Dropdown-Menu
 
-Simple dropdown menu using HTML and CSS smooth transition and Vanilla Javascript manipulated the dropdown background when an item is mouseover/mouseout.
+Simple dropdown menu using HTML, CSS and Vanilla Javascript to manipulated the dropdown background when an item is mouseover/mouseout.
 
 
 <p align='center'>
